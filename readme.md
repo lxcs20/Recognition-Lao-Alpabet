@@ -7,12 +7,15 @@ from skimage.transform import resize
 import numpy as np
 import cv2 -->
 
-modules
+require modules
 
-#keras
+keras
 
-#skimage
+skimage
 
-#cv2
+cv2
 
-#numpy
+numpy
+
+
+main file: gui.py
