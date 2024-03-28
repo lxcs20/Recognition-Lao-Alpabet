@@ -28,3 +28,11 @@ pip install keras skimage opencv-python numpy
 ![ui](png-ui.png)
 
 ![predict](png-predict.png)
+
+
+
+<!-- this project was created in year 3 of my education -->
+<!-- This project was part of a final exam in digital image processing.-->
+<br>
+This project was part of a final exam in digital image processing.
+(2023)
