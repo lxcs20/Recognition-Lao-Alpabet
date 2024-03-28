@@ -25,6 +25,12 @@ pip install keras skimage opencv-python numpy
 ## main file: gui.py
 
 
+set: ກ, ຂ, ຄ, ງ, ຈ, ສ, ຊ, ຍ, ດ, ຕ, ຖ, ທ, ນ, ບ, ປ, ຜ, ຝ, ພ, ຟ, ມ, ຢ, ຣ, ລ, ວ, ຫ, ອ, ຮ, ໜ, ໝ, ຫຼ
+
+## model
+model/ac9869
+
+
 ![ui](png-ui.png)
 
 ![predict](png-predict.png)
