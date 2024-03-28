@@ -6,16 +6,25 @@ from keras.models import load_model
 from skimage.transform import resize
 import numpy as np
 import cv2 -->
+# Python Version 3.10.7
 
-require modules
+# require modules
 
-keras
+### keras Version: 2.11.0
 
-skimage
+### scikit-image  Version: 0.22.0
 
-cv2
+### opencv-python  Version: 4.7.0.68
 
-numpy
+### numpy Version: 1.23.4
+
+## install
+
+pip install keras skimage opencv-python numpy
+
+## main file: gui.py
 
 
-main file: gui.py
+![ui](png-ui.png)
+
+![predict](png-predict.png)
