@@ -30,6 +30,9 @@ set: ກ, ຂ, ຄ, ງ, ຈ, ສ, ຊ, ຍ, ດ, ຕ, ຖ, ທ, ນ, ບ, ປ, 
 ## model
 model/ac9869
 
+## image
+char/
+
 
 ![ui](png-ui.png)
 
