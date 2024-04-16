@@ -20,7 +20,9 @@ import cv2 -->
 
 ## install
 
+```
 pip install keras skimage opencv-python numpy
+```
 
 ## main file: gui.py
 
@@ -33,6 +35,9 @@ model/ac9869
 ## image
 char/
 
+<hr>
+https://github.com/lxcs20/project-dg-image-proccessing-cnn.git
+<hr>
 
 ![ui](png-ui.png)
 
@@ -42,6 +47,6 @@ char/
 
 <!-- this project was created in year 3 of my education -->
 <!-- This project was part of a final exam in digital image processing.-->
-<br>
+<hr>
 This project was part of a final exam in digital image processing.
 (2023)
